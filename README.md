@@ -15,7 +15,7 @@ let assume any variable
 print eigen values and eigen vectors
 
 ```
-## Program:
+## PROGRAM:
 
 #Program to find the eigen values and eigen vectors.
 #Developed by: Anbuselvam A
